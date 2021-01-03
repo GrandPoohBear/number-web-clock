@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/number-web-clock/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/number-web-clock/static/js/main.451d5383.chunk.js",
+    "main.js.map": "/number-web-clock/static/js/main.451d5383.chunk.js.map",
+    "runtime-main.js": "/number-web-clock/static/js/runtime-main.d9d6d3c9.js",
+    "runtime-main.js.map": "/number-web-clock/static/js/runtime-main.d9d6d3c9.js.map",
+    "static/js/2.9a8618bb.chunk.js": "/number-web-clock/static/js/2.9a8618bb.chunk.js",
+    "static/js/2.9a8618bb.chunk.js.map": "/number-web-clock/static/js/2.9a8618bb.chunk.js.map",
+    "static/js/3.d9229f9d.chunk.js": "/number-web-clock/static/js/3.d9229f9d.chunk.js",
+    "static/js/3.d9229f9d.chunk.js.map": "/number-web-clock/static/js/3.d9229f9d.chunk.js.map",
+    "index.html": "/number-web-clock/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/number-web-clock/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9a8618bb.chunk.js.LICENSE.txt": "/number-web-clock/static/js/2.9a8618bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9d6d3c9.js",
+    "static/js/2.9a8618bb.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.451d5383.chunk.js"
+  ]
+}
