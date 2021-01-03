@@ -1164,10 +1164,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@grandpoohbear/number-token-map-generator@^1.0.4":
-  version "1.0.4"
-  resolved "https://npm.pkg.github.com/download/@grandpoohbear/number-token-map-generator/1.0.4/385d3d5294c6a229368442dd35e2ed47e485303a21763dc8607f14c81b3e4abb#a334f2b793c9ea3f31548c3010eb29622a4c0180"
-  integrity sha512-ZhvxAzBY++L61NyMprvwDalKDvEQk7GQWwKUUf3wI3rs6DaKEvP7GNJd7BH3VegVHKYY7HkSNVD5gGE7kEoAJQ==
+"@grandpoohbear/number-token-map-generator@^1.0.6":
+  version "1.0.6"
+  resolved "https://npm.pkg.github.com/download/@grandpoohbear/number-token-map-generator/1.0.6/77da5a86a22ad0ae77009ea05ba83522813516f1d1cd9b5af44e2ef5002109f2#fb87ab315691c26da6ae50a0f42a42be39ee5ebe"
+  integrity sha512-AUcSPxcqCBV5bJBBM/4Xlixp759nWQTrGpwkyGHEGyVweUdKNR2nu25ZJA/uIWC3cCUABKFlxmYW9DKGvPaG3g==
   dependencies:
     "@types/lodash" "^4.14.166"
     lodash "^4.17.20"
@@ -3895,6 +3895,11 @@ data-urls@^2.0.0:
     abab "^2.0.3"
     whatwg-mimetype "^2.3.0"
     whatwg-url "^8.0.0"
+
+dayjs@^1.10.1:
+  version "1.10.1"
+  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.10.1.tgz#114f678624842035396667a24eb1436814bc16fd"
+  integrity sha512-2xg7JrHQeLBQFkvTumLoy62x1siyeocc98QwjtURgvRqOPYmAkMUdmSjrOA+MlmL6QMQn5MUhDf6rNZNuPc1LQ==
 
 debug@2.6.9, debug@^2.2.0, debug@^2.3.3, debug@^2.6.0, debug@^2.6.9:
   version "2.6.9"
