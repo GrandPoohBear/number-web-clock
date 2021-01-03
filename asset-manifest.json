@@ -5,17 +5,17 @@
     "main.js.map": "/number-web-clock/static/js/main.4dbd04a4.chunk.js.map",
     "runtime-main.js": "/number-web-clock/static/js/runtime-main.6de03a9f.js",
     "runtime-main.js.map": "/number-web-clock/static/js/runtime-main.6de03a9f.js.map",
-    "static/js/2.b12bc6bb.chunk.js": "/number-web-clock/static/js/2.b12bc6bb.chunk.js",
-    "static/js/2.b12bc6bb.chunk.js.map": "/number-web-clock/static/js/2.b12bc6bb.chunk.js.map",
+    "static/js/2.1c3d147f.chunk.js": "/number-web-clock/static/js/2.1c3d147f.chunk.js",
+    "static/js/2.1c3d147f.chunk.js.map": "/number-web-clock/static/js/2.1c3d147f.chunk.js.map",
     "static/js/3.e17e74bc.chunk.js": "/number-web-clock/static/js/3.e17e74bc.chunk.js",
     "static/js/3.e17e74bc.chunk.js.map": "/number-web-clock/static/js/3.e17e74bc.chunk.js.map",
     "index.html": "/number-web-clock/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/number-web-clock/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b12bc6bb.chunk.js.LICENSE.txt": "/number-web-clock/static/js/2.b12bc6bb.chunk.js.LICENSE.txt"
+    "static/js/2.1c3d147f.chunk.js.LICENSE.txt": "/number-web-clock/static/js/2.1c3d147f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6de03a9f.js",
-    "static/js/2.b12bc6bb.chunk.js",
+    "static/js/2.1c3d147f.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.4dbd04a4.chunk.js"
   ]
