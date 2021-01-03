@@ -1,8 +1,9 @@
 {
-  "name": "number-web-clock",
+  "name": "@grandpoohbear/number-web-clock",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@grandpoohbear/number-token-map-generator": "^1.0.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -10,6 +11,8 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.53",
     "@types/react-dom": "^16.9.8",
+    "chance": "^1.1.7",
+    "prettier": "^2.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
@@ -39,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/chance": "^1.1.1"
   }
 }

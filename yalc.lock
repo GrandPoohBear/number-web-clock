@@ -1,0 +1,11 @@
+{
+  "version": "v1",
+  "packages": {
+    "number-token-map-generator": {
+      "signature": "d0279ec4583caf1ad3145ae1ca173d9f"
+    },
+    "@grandpoohbear/number-token-map-generator": {
+      "signature": "661b8b0fdcd5f037ee21371a8eb7bb39"
+    }
+  }
+}
