@@ -54,22 +54,16 @@ const Clock = () => {
     );
   }, [hoursString, minutesString, is24]);
 
-  const sendFeedbackEmail = () => {
-    const subject = 'Number web clock feedback';
-    const body = `Thanks for trying this experiment out!  Any feedback?  Facts wrong?  Missing something cool?  Let me know!
-
-    
-    
---------
-Context:
-Current time: ${hoursString}:${minutesString} ${amPmString}
+  const openFeedbackForm = () => {
+    const debugInfo = `Current time: ${hoursString}:${minutesString} ${amPmString}
 Current fact: ${fact}
 All facts: ${JSON.stringify(allFacts)}`;
-    const toAddress = 'andy@tutukain.com';
 
-    window.location.href = `mailto:${toAddress}?subject=${encodeURIComponent(
-      subject
-    )}&body=${encodeURIComponent(body)}`;
+    const formUrl = `https://docs.google.com/forms/d/e/1FAIpQLSd1uyqr0WiJEYWWM6fms08flck01NEi0JQP1S3yGf7NdBDi1Q/viewform?entry.1823470529=${encodeURIComponent(
+      debugInfo
+    )}`;
+
+    window.open(formUrl, '_blank');
   };
 
   return (
@@ -86,7 +80,7 @@ All facts: ${JSON.stringify(allFacts)}`;
         <button onClick={() => set24(!is24)}>Switch 12/24</button>
       </div>
       <div>
-        <button onClick={() => sendFeedbackEmail()}>Feedback?</button>
+        <button onClick={() => openFeedbackForm()}>Feedback?</button>
       </div>
     </div>
   );
